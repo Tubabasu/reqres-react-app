@@ -64,7 +64,7 @@ This is a React application that integrates with the Reqres API to perform user 
    ```
 
 ## Repository
-- GitHub: [your-repository-link]
+- GitHub: [https://github.com/Tubabasu/reqres-react-app]
 
 ## Live Demo
 - [Deployed App URL]
