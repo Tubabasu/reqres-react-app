@@ -20,7 +20,7 @@ This is a React application that integrates with the Reqres API to perform user 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/reqres-react-app.git
+   git clone https://github.com/Tubabasu/reqres-react-app.git
    cd reqres-react-app
    ```
 2. Install dependencies:
